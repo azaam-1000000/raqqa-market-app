@@ -1,0 +1,24 @@
+{
+  "name": "سوق محافظة الرقه",
+  "short_name": "سوق الرقه",
+  "description": "An application for a marketplace with user authentication (Login, Signup, Verification) using Supabase. The UI is designed for Arabic (RTL) with a default dark theme.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
